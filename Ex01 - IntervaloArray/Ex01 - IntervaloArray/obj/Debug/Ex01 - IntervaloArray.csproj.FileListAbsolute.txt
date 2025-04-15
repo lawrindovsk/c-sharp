@@ -1,0 +1,7 @@
+C:\Users\Gustavo\source\repos\Ex01 - IntervaloArray\Ex01 - IntervaloArray\bin\Debug\Ex01 - IntervaloArray.exe.config
+C:\Users\Gustavo\source\repos\Ex01 - IntervaloArray\Ex01 - IntervaloArray\bin\Debug\Ex01 - IntervaloArray.exe
+C:\Users\Gustavo\source\repos\Ex01 - IntervaloArray\Ex01 - IntervaloArray\bin\Debug\Ex01 - IntervaloArray.pdb
+C:\Users\Gustavo\source\repos\Ex01 - IntervaloArray\Ex01 - IntervaloArray\obj\Debug\Ex01 - IntervaloArray.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\Ex01 - IntervaloArray\Ex01 - IntervaloArray\obj\Debug\Ex01 - IntervaloArray.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\Ex01 - IntervaloArray\Ex01 - IntervaloArray\obj\Debug\Ex01 - IntervaloArray.exe
+C:\Users\Gustavo\source\repos\Ex01 - IntervaloArray\Ex01 - IntervaloArray\obj\Debug\Ex01 - IntervaloArray.pdb

@@ -1,0 +1,7 @@
+C:\Users\Gustavo\source\repos\Ex03 - Conta Bancária\Ex03 - Conta Bancária\bin\Debug\Ex03 - Conta Bancária.exe.config
+C:\Users\Gustavo\source\repos\Ex03 - Conta Bancária\Ex03 - Conta Bancária\bin\Debug\Ex03 - Conta Bancária.exe
+C:\Users\Gustavo\source\repos\Ex03 - Conta Bancária\Ex03 - Conta Bancária\bin\Debug\Ex03 - Conta Bancária.pdb
+C:\Users\Gustavo\source\repos\Ex03 - Conta Bancária\Ex03 - Conta Bancária\obj\Debug\Ex03 - Conta Bancária.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\Ex03 - Conta Bancária\Ex03 - Conta Bancária\obj\Debug\Ex03 - Conta Bancária.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\Ex03 - Conta Bancária\Ex03 - Conta Bancária\obj\Debug\Ex03 - Conta Bancária.exe
+C:\Users\Gustavo\source\repos\Ex03 - Conta Bancária\Ex03 - Conta Bancária\obj\Debug\Ex03 - Conta Bancária.pdb
