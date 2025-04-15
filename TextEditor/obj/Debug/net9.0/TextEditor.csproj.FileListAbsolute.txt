@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\TextEditor\bin\Debug\net9.0\TextEditor.exe
+C:\Users\Gustavo\Desktop\TextEditor\bin\Debug\net9.0\TextEditor.deps.json
+C:\Users\Gustavo\Desktop\TextEditor\bin\Debug\net9.0\TextEditor.runtimeconfig.json
+C:\Users\Gustavo\Desktop\TextEditor\bin\Debug\net9.0\TextEditor.dll
+C:\Users\Gustavo\Desktop\TextEditor\bin\Debug\net9.0\TextEditor.pdb
+C:\Users\Gustavo\Desktop\TextEditor\obj\Debug\net9.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\TextEditor\obj\Debug\net9.0\TextEditor.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\TextEditor\obj\Debug\net9.0\TextEditor.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\TextEditor\obj\Debug\net9.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\TextEditor\obj\Debug\net9.0\TextEditor.dll
+C:\Users\Gustavo\Desktop\TextEditor\obj\Debug\net9.0\refint\TextEditor.dll
+C:\Users\Gustavo\Desktop\TextEditor\obj\Debug\net9.0\TextEditor.pdb
+C:\Users\Gustavo\Desktop\TextEditor\obj\Debug\net9.0\TextEditor.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\TextEditor\obj\Debug\net9.0\ref\TextEditor.dll

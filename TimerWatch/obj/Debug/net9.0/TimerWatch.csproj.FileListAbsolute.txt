@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\TimerWatch\bin\Debug\net9.0\TimerWatch.exe
+C:\Users\Gustavo\Desktop\TimerWatch\bin\Debug\net9.0\TimerWatch.deps.json
+C:\Users\Gustavo\Desktop\TimerWatch\bin\Debug\net9.0\TimerWatch.runtimeconfig.json
+C:\Users\Gustavo\Desktop\TimerWatch\bin\Debug\net9.0\TimerWatch.dll
+C:\Users\Gustavo\Desktop\TimerWatch\bin\Debug\net9.0\TimerWatch.pdb
+C:\Users\Gustavo\Desktop\TimerWatch\obj\Debug\net9.0\TimerWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\TimerWatch\obj\Debug\net9.0\TimerWatch.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\TimerWatch\obj\Debug\net9.0\TimerWatch.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\TimerWatch\obj\Debug\net9.0\TimerWatch.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\TimerWatch\obj\Debug\net9.0\TimerWatch.dll
+C:\Users\Gustavo\Desktop\TimerWatch\obj\Debug\net9.0\refint\TimerWatch.dll
+C:\Users\Gustavo\Desktop\TimerWatch\obj\Debug\net9.0\TimerWatch.pdb
+C:\Users\Gustavo\Desktop\TimerWatch\obj\Debug\net9.0\TimerWatch.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\TimerWatch\obj\Debug\net9.0\ref\TimerWatch.dll
+C:\Users\Gustavo\Desktop\TimerWatch\obj\Debug\net9.0\TimerWatch.sourcelink.json
