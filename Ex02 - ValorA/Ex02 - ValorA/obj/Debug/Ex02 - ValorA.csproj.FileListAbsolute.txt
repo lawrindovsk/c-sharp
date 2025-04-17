@@ -1,7 +1,0 @@
-C:\Users\Gustavo\source\repos\Ex02 - ValorA\Ex02 - ValorA\obj\Debug\Ex02 - ValorA.csproj.AssemblyReference.cache
-C:\Users\Gustavo\source\repos\Ex02 - ValorA\Ex02 - ValorA\obj\Debug\Ex02 - ValorA.csproj.CoreCompileInputs.cache
-C:\Users\Gustavo\source\repos\Ex02 - ValorA\Ex02 - ValorA\bin\Debug\Ex02 - ValorA.exe.config
-C:\Users\Gustavo\source\repos\Ex02 - ValorA\Ex02 - ValorA\bin\Debug\Ex02 - ValorA.exe
-C:\Users\Gustavo\source\repos\Ex02 - ValorA\Ex02 - ValorA\bin\Debug\Ex02 - ValorA.pdb
-C:\Users\Gustavo\source\repos\Ex02 - ValorA\Ex02 - ValorA\obj\Debug\Ex02 - ValorA.exe
-C:\Users\Gustavo\source\repos\Ex02 - ValorA\Ex02 - ValorA\obj\Debug\Ex02 - ValorA.pdb
