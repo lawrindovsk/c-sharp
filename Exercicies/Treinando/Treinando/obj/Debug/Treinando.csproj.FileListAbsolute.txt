@@ -1,0 +1,7 @@
+C:\Users\Gustavo\source\repos\Treinando\Treinando\bin\Debug\Treinando.exe.config
+C:\Users\Gustavo\source\repos\Treinando\Treinando\bin\Debug\Treinando.exe
+C:\Users\Gustavo\source\repos\Treinando\Treinando\bin\Debug\Treinando.pdb
+C:\Users\Gustavo\source\repos\Treinando\Treinando\obj\Debug\Treinando.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\Treinando\Treinando\obj\Debug\Treinando.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\Treinando\Treinando\obj\Debug\Treinando.exe
+C:\Users\Gustavo\source\repos\Treinando\Treinando\obj\Debug\Treinando.pdb
