@@ -1,0 +1,28 @@
+C:\Users\nicko\OneDrive - Fundação Salvador Arena\Trabalho Final\Ultima Versao\TrabalhoPronto\TrabalhoPronto\bin\Debug\net6.0\TrabalhoPronto.exe
+C:\Users\nicko\OneDrive - Fundação Salvador Arena\Trabalho Final\Ultima Versao\TrabalhoPronto\TrabalhoPronto\bin\Debug\net6.0\TrabalhoPronto.deps.json
+C:\Users\nicko\OneDrive - Fundação Salvador Arena\Trabalho Final\Ultima Versao\TrabalhoPronto\TrabalhoPronto\bin\Debug\net6.0\TrabalhoPronto.runtimeconfig.json
+C:\Users\nicko\OneDrive - Fundação Salvador Arena\Trabalho Final\Ultima Versao\TrabalhoPronto\TrabalhoPronto\bin\Debug\net6.0\TrabalhoPronto.dll
+C:\Users\nicko\OneDrive - Fundação Salvador Arena\Trabalho Final\Ultima Versao\TrabalhoPronto\TrabalhoPronto\bin\Debug\net6.0\TrabalhoPronto.pdb
+C:\Users\nicko\OneDrive - Fundação Salvador Arena\Trabalho Final\Ultima Versao\TrabalhoPronto\TrabalhoPronto\obj\Debug\net6.0\TrabalhoPronto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\OneDrive - Fundação Salvador Arena\Trabalho Final\Ultima Versao\TrabalhoPronto\TrabalhoPronto\obj\Debug\net6.0\TrabalhoPronto.AssemblyInfoInputs.cache
+C:\Users\nicko\OneDrive - Fundação Salvador Arena\Trabalho Final\Ultima Versao\TrabalhoPronto\TrabalhoPronto\obj\Debug\net6.0\TrabalhoPronto.AssemblyInfo.cs
+C:\Users\nicko\OneDrive - Fundação Salvador Arena\Trabalho Final\Ultima Versao\TrabalhoPronto\TrabalhoPronto\obj\Debug\net6.0\TrabalhoPronto.csproj.CoreCompileInputs.cache
+C:\Users\nicko\OneDrive - Fundação Salvador Arena\Trabalho Final\Ultima Versao\TrabalhoPronto\TrabalhoPronto\obj\Debug\net6.0\TrabalhoPronto.dll
+C:\Users\nicko\OneDrive - Fundação Salvador Arena\Trabalho Final\Ultima Versao\TrabalhoPronto\TrabalhoPronto\obj\Debug\net6.0\refint\TrabalhoPronto.dll
+C:\Users\nicko\OneDrive - Fundação Salvador Arena\Trabalho Final\Ultima Versao\TrabalhoPronto\TrabalhoPronto\obj\Debug\net6.0\TrabalhoPronto.pdb
+C:\Users\nicko\OneDrive - Fundação Salvador Arena\Trabalho Final\Ultima Versao\TrabalhoPronto\TrabalhoPronto\obj\Debug\net6.0\TrabalhoPronto.genruntimeconfig.cache
+C:\Users\nicko\OneDrive - Fundação Salvador Arena\Trabalho Final\Ultima Versao\TrabalhoPronto\TrabalhoPronto\obj\Debug\net6.0\ref\TrabalhoPronto.dll
+C:\Users\Gustavo\source\repos\Ultima Versao\TrabalhoPronto\TrabalhoPronto\bin\Debug\net6.0\TrabalhoPronto.exe
+C:\Users\Gustavo\source\repos\Ultima Versao\TrabalhoPronto\TrabalhoPronto\bin\Debug\net6.0\TrabalhoPronto.deps.json
+C:\Users\Gustavo\source\repos\Ultima Versao\TrabalhoPronto\TrabalhoPronto\bin\Debug\net6.0\TrabalhoPronto.runtimeconfig.json
+C:\Users\Gustavo\source\repos\Ultima Versao\TrabalhoPronto\TrabalhoPronto\bin\Debug\net6.0\TrabalhoPronto.dll
+C:\Users\Gustavo\source\repos\Ultima Versao\TrabalhoPronto\TrabalhoPronto\bin\Debug\net6.0\TrabalhoPronto.pdb
+C:\Users\Gustavo\source\repos\Ultima Versao\TrabalhoPronto\TrabalhoPronto\obj\Debug\net6.0\TrabalhoPronto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\source\repos\Ultima Versao\TrabalhoPronto\TrabalhoPronto\obj\Debug\net6.0\TrabalhoPronto.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\Ultima Versao\TrabalhoPronto\TrabalhoPronto\obj\Debug\net6.0\TrabalhoPronto.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\Ultima Versao\TrabalhoPronto\TrabalhoPronto\obj\Debug\net6.0\TrabalhoPronto.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\Ultima Versao\TrabalhoPronto\TrabalhoPronto\obj\Debug\net6.0\TrabalhoPronto.dll
+C:\Users\Gustavo\source\repos\Ultima Versao\TrabalhoPronto\TrabalhoPronto\obj\Debug\net6.0\refint\TrabalhoPronto.dll
+C:\Users\Gustavo\source\repos\Ultima Versao\TrabalhoPronto\TrabalhoPronto\obj\Debug\net6.0\TrabalhoPronto.pdb
+C:\Users\Gustavo\source\repos\Ultima Versao\TrabalhoPronto\TrabalhoPronto\obj\Debug\net6.0\TrabalhoPronto.genruntimeconfig.cache
+C:\Users\Gustavo\source\repos\Ultima Versao\TrabalhoPronto\TrabalhoPronto\obj\Debug\net6.0\ref\TrabalhoPronto.dll

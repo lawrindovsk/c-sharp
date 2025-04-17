@@ -1,0 +1,7 @@
+C:\Users\Gustavo\source\repos\LimitsOnSharp_\LimitsOnSharp_\bin\Debug\LimitsOnSharp_.exe.config
+C:\Users\Gustavo\source\repos\LimitsOnSharp_\LimitsOnSharp_\bin\Debug\LimitsOnSharp_.exe
+C:\Users\Gustavo\source\repos\LimitsOnSharp_\LimitsOnSharp_\bin\Debug\LimitsOnSharp_.pdb
+C:\Users\Gustavo\source\repos\LimitsOnSharp_\LimitsOnSharp_\obj\Debug\LimitsOnSharp_.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\LimitsOnSharp_\LimitsOnSharp_\obj\Debug\LimitsOnSharp_.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\LimitsOnSharp_\LimitsOnSharp_\obj\Debug\LimitsOnSharp_.exe
+C:\Users\Gustavo\source\repos\LimitsOnSharp_\LimitsOnSharp_\obj\Debug\LimitsOnSharp_.pdb
