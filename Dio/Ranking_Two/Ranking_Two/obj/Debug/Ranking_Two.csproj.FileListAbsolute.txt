@@ -1,0 +1,7 @@
+C:\Users\Gustavo\source\repos\Ranking_Two\Ranking_Two\bin\Debug\Ranking_Two.exe.config
+C:\Users\Gustavo\source\repos\Ranking_Two\Ranking_Two\bin\Debug\Ranking_Two.exe
+C:\Users\Gustavo\source\repos\Ranking_Two\Ranking_Two\bin\Debug\Ranking_Two.pdb
+C:\Users\Gustavo\source\repos\Ranking_Two\Ranking_Two\obj\Debug\Ranking_Two.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\Ranking_Two\Ranking_Two\obj\Debug\Ranking_Two.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\Ranking_Two\Ranking_Two\obj\Debug\Ranking_Two.exe
+C:\Users\Gustavo\source\repos\Ranking_Two\Ranking_Two\obj\Debug\Ranking_Two.pdb

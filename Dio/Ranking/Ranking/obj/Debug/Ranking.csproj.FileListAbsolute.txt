@@ -1,0 +1,7 @@
+C:\Users\Gustavo\source\repos\Ranking\Ranking\obj\Debug\Ranking.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\Ranking\Ranking\obj\Debug\Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\Ranking\Ranking\bin\Debug\Ranking.exe.config
+C:\Users\Gustavo\source\repos\Ranking\Ranking\bin\Debug\Ranking.exe
+C:\Users\Gustavo\source\repos\Ranking\Ranking\bin\Debug\Ranking.pdb
+C:\Users\Gustavo\source\repos\Ranking\Ranking\obj\Debug\Ranking.exe
+C:\Users\Gustavo\source\repos\Ranking\Ranking\obj\Debug\Ranking.pdb
