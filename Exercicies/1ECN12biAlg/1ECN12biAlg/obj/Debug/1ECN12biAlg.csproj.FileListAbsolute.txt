@@ -1,0 +1,7 @@
+C:\Users\Gustavo\source\repos\1ECN12biAlg\1ECN12biAlg\bin\Debug\1ECN12biAlg.exe.config
+C:\Users\Gustavo\source\repos\1ECN12biAlg\1ECN12biAlg\bin\Debug\1ECN12biAlg.exe
+C:\Users\Gustavo\source\repos\1ECN12biAlg\1ECN12biAlg\bin\Debug\1ECN12biAlg.pdb
+C:\Users\Gustavo\source\repos\1ECN12biAlg\1ECN12biAlg\obj\Debug\1ECN12biAlg.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\1ECN12biAlg\1ECN12biAlg\obj\Debug\1ECN12biAlg.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\1ECN12biAlg\1ECN12biAlg\obj\Debug\1ECN12biAlg.exe
+C:\Users\Gustavo\source\repos\1ECN12biAlg\1ECN12biAlg\obj\Debug\1ECN12biAlg.pdb

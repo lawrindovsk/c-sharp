@@ -1,0 +1,14 @@
+C:\Users\010428801\source\repos\Aulinhas de CSHURPS\Aulinhas de CSHURPS\bin\Debug\Aulinhas de CSHURPS.exe.config
+C:\Users\010428801\source\repos\Aulinhas de CSHURPS\Aulinhas de CSHURPS\bin\Debug\Aulinhas de CSHURPS.exe
+C:\Users\010428801\source\repos\Aulinhas de CSHURPS\Aulinhas de CSHURPS\bin\Debug\Aulinhas de CSHURPS.pdb
+C:\Users\010428801\source\repos\Aulinhas de CSHURPS\Aulinhas de CSHURPS\obj\Debug\Aulinhas de CSHURPS.csproj.AssemblyReference.cache
+C:\Users\010428801\source\repos\Aulinhas de CSHURPS\Aulinhas de CSHURPS\obj\Debug\Aulinhas de CSHURPS.csproj.CoreCompileInputs.cache
+C:\Users\010428801\source\repos\Aulinhas de CSHURPS\Aulinhas de CSHURPS\obj\Debug\Aulinhas de CSHURPS.exe
+C:\Users\010428801\source\repos\Aulinhas de CSHURPS\Aulinhas de CSHURPS\obj\Debug\Aulinhas de CSHURPS.pdb
+C:\Users\Gustavo\source\repos\Aulinhas de CSHURPS\Aulinhas de CSHURPS\bin\Debug\Aulinhas de CSHURPS.exe.config
+C:\Users\Gustavo\source\repos\Aulinhas de CSHURPS\Aulinhas de CSHURPS\bin\Debug\Aulinhas de CSHURPS.exe
+C:\Users\Gustavo\source\repos\Aulinhas de CSHURPS\Aulinhas de CSHURPS\bin\Debug\Aulinhas de CSHURPS.pdb
+C:\Users\Gustavo\source\repos\Aulinhas de CSHURPS\Aulinhas de CSHURPS\obj\Debug\Aulinhas de CSHURPS.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\Aulinhas de CSHURPS\Aulinhas de CSHURPS\obj\Debug\Aulinhas de CSHURPS.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\Aulinhas de CSHURPS\Aulinhas de CSHURPS\obj\Debug\Aulinhas de CSHURPS.exe
+C:\Users\Gustavo\source\repos\Aulinhas de CSHURPS\Aulinhas de CSHURPS\obj\Debug\Aulinhas de CSHURPS.pdb
