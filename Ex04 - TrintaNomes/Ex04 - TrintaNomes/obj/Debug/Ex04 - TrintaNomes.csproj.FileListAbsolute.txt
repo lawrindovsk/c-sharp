@@ -1,7 +1,0 @@
-C:\Users\Gustavo\source\repos\Ex04 - TrintaNomes\Ex04 - TrintaNomes\bin\Debug\Ex04 - TrintaNomes.exe.config
-C:\Users\Gustavo\source\repos\Ex04 - TrintaNomes\Ex04 - TrintaNomes\bin\Debug\Ex04 - TrintaNomes.exe
-C:\Users\Gustavo\source\repos\Ex04 - TrintaNomes\Ex04 - TrintaNomes\bin\Debug\Ex04 - TrintaNomes.pdb
-C:\Users\Gustavo\source\repos\Ex04 - TrintaNomes\Ex04 - TrintaNomes\obj\Debug\Ex04 - TrintaNomes.csproj.AssemblyReference.cache
-C:\Users\Gustavo\source\repos\Ex04 - TrintaNomes\Ex04 - TrintaNomes\obj\Debug\Ex04 - TrintaNomes.csproj.CoreCompileInputs.cache
-C:\Users\Gustavo\source\repos\Ex04 - TrintaNomes\Ex04 - TrintaNomes\obj\Debug\Ex04 - TrintaNomes.exe
-C:\Users\Gustavo\source\repos\Ex04 - TrintaNomes\Ex04 - TrintaNomes\obj\Debug\Ex04 - TrintaNomes.pdb
