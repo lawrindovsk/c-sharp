@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\HTMLEditor\bin\Debug\net9.0\HTMLEditor.exe
+C:\Users\Gustavo\Desktop\HTMLEditor\bin\Debug\net9.0\HTMLEditor.deps.json
+C:\Users\Gustavo\Desktop\HTMLEditor\bin\Debug\net9.0\HTMLEditor.runtimeconfig.json
+C:\Users\Gustavo\Desktop\HTMLEditor\bin\Debug\net9.0\HTMLEditor.dll
+C:\Users\Gustavo\Desktop\HTMLEditor\bin\Debug\net9.0\HTMLEditor.pdb
+C:\Users\Gustavo\Desktop\HTMLEditor\obj\Debug\net9.0\HTMLEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\HTMLEditor\obj\Debug\net9.0\HTMLEditor.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\HTMLEditor\obj\Debug\net9.0\HTMLEditor.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\HTMLEditor\obj\Debug\net9.0\HTMLEditor.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\HTMLEditor\obj\Debug\net9.0\HTMLEditor.dll
+C:\Users\Gustavo\Desktop\HTMLEditor\obj\Debug\net9.0\refint\HTMLEditor.dll
+C:\Users\Gustavo\Desktop\HTMLEditor\obj\Debug\net9.0\HTMLEditor.pdb
+C:\Users\Gustavo\Desktop\HTMLEditor\obj\Debug\net9.0\HTMLEditor.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\HTMLEditor\obj\Debug\net9.0\ref\HTMLEditor.dll
